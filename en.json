@@ -1,4 +1,7 @@
 {
     "generic.productName": "Dashmaster",
-    "menubar.file": "File"
+    "menubar.file": "File",
+    "menubar.edit": "Edit",
+    "menubar.view": "View",
+    "menubar.about": "About"
 }
