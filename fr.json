@@ -1,1 +1,6 @@
-{}
+{
+    "menubar.file": "Fichier",
+    "menubar.edit": "Edition",
+    "menubar.view": "Affichage",
+    "menubar.about": "A propos"
+}
